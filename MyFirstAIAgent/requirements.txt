@@ -1,0 +1,11 @@
+agno
+groq
+openai
+python-dotenv
+duckduckgo-search
+linkedin
+pypdf
+lancedb
+streamlit
+pandas
+yfinance
